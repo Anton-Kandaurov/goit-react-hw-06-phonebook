@@ -34,4 +34,6 @@ export const Form = styled.form`
   border: 2px solid black;
   max-width: 400px;
   margin-bottom: 20px;
-`;
+  margin-left: 50px;
+  background-color: #f333;
+  `;
